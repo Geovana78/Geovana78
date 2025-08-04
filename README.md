@@ -1,5 +1,5 @@
 # Hi there 👋, GEOVANA here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) 
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Geovana78.GeoSalud)
 [![Apóyame en BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Apóyame&emoji=☕&slug=geo.salud&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/geo.salud)
 
 # 💫 About Me:
