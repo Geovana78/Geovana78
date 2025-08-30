@@ -36,3 +36,20 @@ const Geovana = {
   currentlyLearning: "SC-300",
   quote: "20 segundos de coraje es todo lo que necesitas para empezar a creer en ti."
 }
+### Mis Estadísticas de GitHub
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Geovana78&theme=dark&hide_rank=true" alt="Estadísticas de GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geovana78&theme=dark" alt="Racha de Contribuciones" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
