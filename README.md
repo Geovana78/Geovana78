@@ -15,6 +15,11 @@
   </tr>
 </table>
 
+### Conéctate Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-sepulveda/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@geo.cloud)
+
 # 💫 About Me: Actualmente me especializo en identidad y seguridad en la nube con Microsoft Azure. Cuento con certificación SC-900 y formación activa en SC-300. Domino Microsoft Entra ID (anteriormente Azure AD), autenticación multifactor (MFA), acceso condicional, control de accesos RBAC, protección de contraseñas y administración segura de identidades híbridas y externas, bajo principios Zero Trust y cumplimiento normativo.<br><br>He liderado GeoSalud, un proyecto de análisis de datos de alto impacto social que procesó más de 186 millones de registros oficiales (INEGI, RENUE, datos abiertos). Apliqué herramientas como KNIME, Power BI y Python para limpiar, transformar y visualizar datos, diseñando un sistema de semáforo de cobertura médica, proyección poblacional y recomendaciones de infraestructura sanitaria.<br><br>Para la capa final de experiencia de usuario, desarrollé una app móvil funcional usando Flutter y Dart (programación orientada a objetos), que integra filtros, visualización por tarjetas y un mapa interactivo por localidad. La arquitectura fue pensada para funcionar offline como PWA, con enfoque limpio, profesional y escalable.<br><br>
 Busco colaborar en equipos que trabajen con identidad, análisis de datos, seguridad cloud o desarrollo de soluciones con impacto real. Mi enfoque es práctico, organizado y siempre orientado a resultados. 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/geovana-sepulveda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@geo.cloud?_t=ZS-8yYmM2Sdd6w&_r=1) 
