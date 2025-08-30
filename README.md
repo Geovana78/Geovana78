@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy GEOVANA</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Especialista+en+Identidad+%26+Seguridad+Cloud;Analista+de+Datos+%7C+186M%2B+registros;Desarrolladora+Flutter+%7C+Azure+Expert;Certificada+SC-900+%7C+Estudiando+SC-300" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Azure+Identity+%26+Cloud+Security+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-sepulveda/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@geo.cloud?_t=ZS-8zIj8xZXjXD&_r=1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovana.martinez.sepulveda@gmail.com)
 
 </div>
 
@@ -69,13 +69,13 @@ const Geovana = {
 
 <div align="center">
   
-### 📈 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geovana78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovana78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovana78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-### 💻 Lenguajes Más Usados  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovana78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+</div>
 
-### 🔥 GitHub Streak
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geovana78&theme=tokyonight&hide_border=true)
 
 </div>
@@ -197,4 +197,4 @@ Busco oportunidades donde pueda aplicar mis habilidades en **identidad digital**
 
 *Hecho con ❤️ desde Irapuato, Guanajuato 🇲🇽*
 
-</div>  
+</div>
