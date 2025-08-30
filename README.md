@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy GEOVANA</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> soy GEOVANA</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Azure+Identity+%26+Cloud+Security+Specialist" alt="Typing SVG" />
