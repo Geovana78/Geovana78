@@ -20,9 +20,53 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-sepulveda/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@geo.cloud)
 
-# 💫 About Me: Actualmente me especializo en identidad y seguridad en la nube con Microsoft Azure. Cuento con certificación SC-900 y formación activa en SC-300. Domino Microsoft Entra ID (anteriormente Azure AD), autenticación multifactor (MFA), acceso condicional, control de accesos RBAC, protección de contraseñas y administración segura de identidades híbridas y externas, bajo principios Zero Trust y cumplimiento normativo.<br><br>He liderado GeoSalud, un proyecto de análisis de datos de alto impacto social que procesó más de 186 millones de registros oficiales (INEGI, RENUE, datos abiertos). Apliqué herramientas como KNIME, Power BI y Python para limpiar, transformar y visualizar datos, diseñando un sistema de semáforo de cobertura médica, proyección poblacional y recomendaciones de infraestructura sanitaria.<br><br>Para la capa final de experiencia de usuario, desarrollé una app móvil funcional usando Flutter y Dart (programación orientada a objetos), que integra filtros, visualización por tarjetas y un mapa interactivo por localidad. La arquitectura fue pensada para funcionar offline como PWA, con enfoque limpio, profesional y escalable.<br><br>
-Busco colaborar en equipos que trabajen con identidad, análisis de datos, seguridad cloud o desarrollo de soluciones con impacto real. Mi enfoque es práctico, organizado y siempre orientado a resultados. 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/geovana-sepulveda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@geo.cloud?_t=ZS-8yYmM2Sdd6w&_r=1) 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/TU_USUARIO_DE_GITHUB?s=400&v=4" alt="Tu Foto de Perfil" width="150" style="border-radius:50%;"/>
+</p>
+
+### 💻 Un poco sobre mí...
+
+```javascript´´´
+const Geovana = {
+  pronouns: 'She | Her',
+  location: 'Irapuato, Guanajuato, México',
+  specialties: [
+    'Identidad y Seguridad en la Nube (Microsoft Azure)',
+    'Análisis Geoespacial y Big Data (186M+ registros)',
+    'Desarrollo de Apps Móviles (Flutter)',
+    'Ingeniería de Datos y ETL (KNIME)',
+  ],
+  certifications: ['SC-900 (Microsoft Certified: Security, Compliance, and Identity Fundamentals)', 'Formación activa en SC-300'],
+  azureSkills: [
+    'Microsoft Entra ID (Azure AD)',
+    'Autenticación Multifactor (MFA)',
+    'Acceso Condicional',
+    'Control de Accesos RBAC',
+    'Protección de Contraseñas',
+    'Administración de Identidades Híbridas y Externas',
+    'Principios Zero Trust',
+    'Cumplimiento Normativo',
+  ],
+  dataSkills: [
+    'KNIME (ETL de Big Data)',
+    'Power BI (Visualización y Dashboards)',
+    'Python (Limpieza, Transformación, Visualización, Predicción)',
+    'INEGI, RENUE (Manejo de Datos Abiertos Oficiales)',
+    'Diseño de Semáforos de Cobertura Médica',
+    'Proyección Poblacional',
+  ],
+  mobileAppSkills: [
+    'Flutter y Dart (POO)',
+    'Arquitectura Limpia y Escalable',
+    'Funcionalidad Offline (PWA)',
+    'Mapas Interactivos',
+    'Filtros y Visualización por Tarjetas',
+  ],
+  seeking: 'Colaboraciones en equipos de Identidad, Análisis de Datos, Seguridad Cloud o Desarrollo con Impacto Social.',
+  philosophy: 'Enfoque práctico, organizado y siempre orientado a resultados.',
+  contact: '🔗 [LinkedIn](https://www.linkedin.com/in/geovana-sepulveda/) | 📧 geovana.sepulveda@email.com (ejemplo)', // Asegúrate de poner tu email real
+  // Puedes añadir más campos si quieres, como hobbies, un lema, etc.
+};## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/geovana-sepulveda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@geo.cloud?_t=ZS-8yYmM2Sdd6w&_r=1) 
 # 💻 Tech Stack: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![](https://github-readme-stats.vercel.app/api?username=Geovana78&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Geovana78&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovana78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
