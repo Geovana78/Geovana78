@@ -32,12 +32,9 @@
 
 </div>
 
-
-
 ---
 <table>
   <tr>
-    <!-- IZQUIERDA: Título + botones -->
     <td>
       <h2>🚀 Conéctate conmigo</h2>
       <a href="https://www.linkedin.com/in/geovana-sepulveda/" target="_blank">
@@ -50,14 +47,12 @@
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
-
-    <!-- DERECHA: GIF -->
     <td>
-      <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif"
-           alt="Anime girl working on laptop" width="250">
+      <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif" alt="Anime girl working on laptop" width="250">
     </td>
   </tr>
 </table>
+
 
 ## 💻 Tech Stack
 
