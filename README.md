@@ -35,10 +35,11 @@
 
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px;">
-    <div>
-        <h2>🚀 Conéctate conmigo</h2>
-        <div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px; gap: 40px; max-width: 100%;">
+    <!-- Lado Izquierdo - Título e Iconos -->
+    <div style="display: flex; flex-direction: column; justify-content: center; flex: 1;">
+        <h2 style="margin-bottom: 15px; font-size: 1.5rem;">🚀 Conéctate conmigo</h2>
+        <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
             <a href="https://www.linkedin.com/in/geovana-sepulveda/" target="_blank">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
             </a>
@@ -50,11 +51,15 @@
             </a>
         </div>
     </div>
-    <div style="margin-left: 20px;">
-        <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif" width="250" alt="Anime girl working on laptop">
+    
+    <!-- Lado Derecho - GIF -->
+    <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif" 
+             width="280" 
+             alt="Anime girl working on laptop" 
+             style="border-radius: 15px; max-width: 100%; height: auto;">
     </div>
 </div>
-
 
 
 
