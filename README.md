@@ -19,7 +19,9 @@
 </div>
 
 ---
-![Developer illustration](https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif?raw=true)
+<p align="left">
+  <img src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif?raw=true" width="300px" alt="Developer illustration">
+</p>
 
 ## 🚀 Conéctate conmigo
 
