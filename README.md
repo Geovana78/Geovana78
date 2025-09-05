@@ -34,6 +34,7 @@
 </div>
 
 ---
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Microsoft Entra](https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-FF6B35?style=for-the-badge&logo=security&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![KNIME](https://img.shields.io/badge/KNIME-FFF200?style=for-the-badge&logo=knime&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ## 💻 Un poco sobre mí...
@@ -73,24 +74,6 @@ const Geovana = {
   quote: '20 segundos de coraje es todo lo que necesitas para empezar a creer en ti'
 };
 ```
-
----
-## 💻 Stack Tecnológico
-
-<div align="center">
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Microsoft Entra](https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-FF6B35?style=for-the-badge&logo=security&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-FFF200?style=for-the-badge&logo=knime&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</div>
 
 ---
 
