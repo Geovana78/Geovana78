@@ -32,6 +32,8 @@
 
 ---
 
+!http://googleusercontent.com/image_generation_content/2
+
 ## 💻 Un poco sobre mí...
 
 ```javascript
