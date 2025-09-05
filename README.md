@@ -55,7 +55,7 @@
   <div style="flex-shrink: 0; margin-left: 30px; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif" width="250" alt="Anime girl working on laptop" style="border-radius: 10px;">
   </div>
-</div>---
+</div>
 
 ## 💻 Tech Stack
 
