@@ -43,7 +43,7 @@
 
 ## 💻 Tech Stack
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Microsoft Entra](https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Zero Trust](https://img.io/badge/Zero%20Trust-FF6B35?style=for-the-badge&logo=security&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![KNIME](https://img.shields.io/badge/KNIME-FFF200?style=for-the-badge&logo=knime&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Microsoft Entra](https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-FF6B35?style=for-the-badge&logo=security&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![KNIME](https://img.shields.io/badge/KNIME-FFF200?style=for-the-badge&logo=knime&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ## 💻 Un poco sobre mí...
@@ -83,3 +83,78 @@ const Geovana = {
   seeking: 'Colaboraciones en equipos de Identidad, Análisis de Datos, Seguridad Cloud o Desarrollo con Impacto Social.',
   quote: '20 segundos de coraje es todo lo que necesitas para empezar a creer en ti'
 };
+📊 Análisis de GitHub
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovana78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovana78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+</div>
+
+🏆 Métricas Profesionales
+<div align="center">
+
+🎯 Contribuciones y Actividad
+🏅 GitHub Trophies
+</div>
+
+🎯 Proyectos Destacados
+<div align="center">
+
+🏥 GeoSalud - Sistema de Análisis de Cobertura Médica
+📊 186M+ registros procesados | 🗺️ Mapeo nacional | 📱 App móvil
+
+Proyecto de alto impacto social que procesa datos oficiales (INEGI, RENUE) para generar:
+
+🎯 Sistema de semáforo de cobertura médica
+
+📈 Proyección poblacional
+
+🏗️ Recomendaciones de infraestructura sanitaria
+
+📱 App móvil con Flutter (PWA offline-first)
+
+🔐 Cerberus - Proyecto de Seguridad
+🛡️ Identidad | 🔒 Zero Trust | ☁️ Azure
+
+Próximamente más detalles...
+
+</div>
+
+📈 Métricas Detalladas
+<div align="center">
+
+</div>
+
+💭 Cita Inspiradora del Día
+<div align="center">
+
+</div>
+
+🤝 ¡Colaboremos Juntos!
+<div align="center">
+
+🎯 Estoy interesada en:
+🔐 Identidad y Seguridad Cloud (Azure, Zero Trust)
+
+📊 Análisis de Big Data (Proyectos de impacto social)
+
+🌍 Soluciones Geoespaciales (Salud pública, infraestructura)
+
+👥 Equipos orientados a resultados con propósito
+
+📧 ¿Tienes un proyecto increíble?
+¡Me encantaría ser parte de tu equipo! Busco oportunidades donde pueda aplicar mis habilidades en identidad digital, análisis de datos masivos y desarrollo de soluciones que generen un impacto real en la sociedad.
+
+📊 Mi filosofía:
+"20 segundos de coraje es todo lo que necesitas para empezar a creer en ti"
+
+¡Construyamos algo extraordinario juntos! ✨🚀
+
+Hecho con ❤️ desde Irapuato, Guanajuato 🇲🇽
+
+</div>
