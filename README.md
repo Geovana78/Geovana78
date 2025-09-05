@@ -35,26 +35,27 @@
 
 
 ---
-
-
-
-## 🚀 Conéctate conmigo
-
-
-
-<div align="center">
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovana-sepulveda/)
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@geo.cloud?_t=ZS-8zIj8xZXjXD&_r=1)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovana.martinez.sepulveda@gmail.com)
-
-
-
+<div style="display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px;">
+    <div>
+        <h2>🚀 Conéctate conmigo</h2>
+        <div style="display: flex; gap: 10px;">
+            <a href="https://www.linkedin.com/in/geovana-sepulveda/" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+            </a>
+            <a href="https://www.tiktok.com/@geo.cloud?_t=ZS-8zIj8xZXjXD&_r=1" target="_blank">
+                <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+            </a>
+            <a href="mailto:geovana.martinez.sepulveda@gmail.com" target="_blank">
+                <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+            </a>
+        </div>
+    </div>
+    <div style="margin-left: 20px;">
+        <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif" width="250" alt="Anime girl working on laptop">
+    </div>
 </div>
+
+
 
 
 
