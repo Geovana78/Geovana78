@@ -36,11 +36,10 @@
 
 ---
 <div style="display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px;">
-
   <!-- Sección izquierda: título e íconos -->
-  <div style="flex: 1;">
-    <h2>🚀 Conéctate conmigo</h2>
-    <div style="display: flex; gap: 10px; margin-top: 10px;">
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+    <h2 style="margin-bottom: 15px;">🚀 Conéctate conmigo</h2>
+    <div style="display: flex; gap: 10px; align-items: center;">
       <a href="https://www.linkedin.com/in/geovana-sepulveda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -52,15 +51,11 @@
       </a>
     </div>
   </div>
-
   <!-- Sección derecha: GIF -->
-  <div style="flex-shrink: 0; margin-left: 30px;">
-    <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif" width="250" alt="Anime girl working on laptop">
+  <div style="flex-shrink: 0; margin-left: 30px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Geovana78/Geovana78/ea8ce63196389fa43ceb05d0951f1a6dbf537552/gif.gif" width="250" alt="Anime girl working on laptop" style="border-radius: 10px;">
   </div>
-</div>
-
-
----
+</div>---
 
 ## 💻 Tech Stack
 
