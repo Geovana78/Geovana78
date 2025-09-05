@@ -9,9 +9,7 @@
 </div>
 
 
-
 <div align="center">
-
 
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Geovana78.GeoSalud&style=flat-square&color=0088cc)
@@ -21,14 +19,12 @@
 </div>
 
 
-
 <!-- Botón de Patrocinio -->
 
 <div align="center">
 
   
-
-  <a href="https://buymeacoffee.com/geo.salud">
+ <a href="https://buymeacoffee.com/geo.salud">
 
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 
